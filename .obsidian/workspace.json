@@ -4,43 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "9d8439ca1a7183f8",
+        "id": "64fba2fd0230f90a",
         "type": "split",
         "children": [
           {
-            "id": "40c1b69d2bd4c30d",
+            "id": "035afdcd4c58b8e0",
             "type": "tabs",
-            "dimension": 57.88888888888889,
             "children": [
               {
-                "id": "4ceb2e24c18a3391",
+                "id": "ed264b21c72a1d94",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GEMINI.md",
+                    "file": "Projects/E-EXPERIENCE WORKSHEET/Meeting.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "GEMINI"
+                  "title": "Meeting"
                 }
               }
             ]
           },
           {
-            "id": "01e63753a468323d",
+            "id": "7f41186a24976c9a",
             "type": "tabs",
-            "dimension": 42.11111111111111,
             "children": [
               {
-                "id": "4505caad0cde4b17",
+                "id": "132a0500bc0b5148",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "terminal:terminal",
                   "state": {
                     "terminal:terminal": {
-                      "cwd": "/Users/sinh/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vault",
+                      "cwd": "/Users/sinh/Library/Mobile Documents/iCloud~md~obsidian/Documents/Obsidian Vault",
                       "focus": false,
                       "profile": {
                         "args": [
@@ -69,6 +68,7 @@
                       "serial": null
                     }
                   },
+                  "pinned": true,
                   "icon": "terminal",
                   "title": "Terminal: zsh"
                 }
@@ -247,9 +247,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "4505caad0cde4b17",
+  "active": "132a0500bc0b5148",
   "lastOpenFiles": [
+    "Projects/E-EXPERIENCE WORKSHEET/Meeting.md",
     "GEMINI.md",
+    "Projects/E-EXPERIENCE WORKSHEET",
     "Attachments",
     "Templates",
     "Resources",
