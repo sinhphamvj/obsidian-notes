@@ -10,6 +10,7 @@
           {
             "id": "035afdcd4c58b8e0",
             "type": "tabs",
+            "dimension": 70.33333333333334,
             "children": [
               {
                 "id": "ed264b21c72a1d94",
@@ -17,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Projects/E-EXPERIENCE WORKSHEET/Meeting.md",
+                    "file": "Daily/My doc/Xây dựng \"Bộ não thứ hai\".md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Meeting"
+                  "title": "Xây dựng \"Bộ não thứ hai\""
                 }
               }
             ]
@@ -30,6 +31,7 @@
           {
             "id": "7f41186a24976c9a",
             "type": "tabs",
+            "dimension": 29.666666666666668,
             "children": [
               {
                 "id": "132a0500bc0b5148",
@@ -249,7 +251,9 @@
   },
   "active": "132a0500bc0b5148",
   "lastOpenFiles": [
-    "Projects/E-EXPERIENCE WORKSHEET/Meeting.md",
+    "Daily/My doc/Xây dựng \"Bộ não thứ hai\".md",
+    "Projects/E-EXPERIENCE WORKSHEET/Design roster base on AMOS test.md",
+    "Daily/My doc",
     "GEMINI.md",
     "Projects/E-EXPERIENCE WORKSHEET",
     "Attachments",
