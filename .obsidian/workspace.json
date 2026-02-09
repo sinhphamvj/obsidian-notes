@@ -10,7 +10,7 @@
           {
             "id": "035afdcd4c58b8e0",
             "type": "tabs",
-            "dimension": 70.33333333333334,
+            "dimension": 63.777777777777786,
             "children": [
               {
                 "id": "ed264b21c72a1d94",
@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Daily/My doc/Xây dựng \"Bộ não thứ hai\".md",
+                    "file": "Daily/My doc/Agent skill.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Xây dựng \"Bộ não thứ hai\""
+                  "title": "Agent skill"
                 }
               }
             ]
@@ -31,7 +31,7 @@
           {
             "id": "7f41186a24976c9a",
             "type": "tabs",
-            "dimension": 29.666666666666668,
+            "dimension": 36.22222222222222,
             "children": [
               {
                 "id": "132a0500bc0b5148",
@@ -251,8 +251,16 @@
   },
   "active": "132a0500bc0b5148",
   "lastOpenFiles": [
-    "Daily/My doc/Xây dựng \"Bộ não thứ hai\".md",
+    "Daily/My doc/Agent skill.md",
+    "Daily/My doc/Agentic RAG build.md",
+    "Claudebot.md",
     "Projects/E-EXPERIENCE WORKSHEET/Design roster base on AMOS test.md",
+    "Projects/Google Cloud/Cloud Run.md",
+    "Projects/Google Cloud/Untitled.md",
+    "Projects/Google Cloud",
+    "Daily/My doc/Anti Gravity.md",
+    "Daily/My doc/Vibe  code.md",
+    "Daily/My doc/Xây dựng \"Bộ não thứ hai\".md",
     "Daily/My doc",
     "GEMINI.md",
     "Projects/E-EXPERIENCE WORKSHEET",
@@ -263,7 +271,6 @@
     "Daily",
     "Inbox",
     "Untitled.base",
-    "Untitled 1.base",
     "Welcome.md"
   ]
 }
