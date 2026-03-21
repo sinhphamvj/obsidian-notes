@@ -10,7 +10,7 @@
           {
             "id": "035afdcd4c58b8e0",
             "type": "tabs",
-            "dimension": 67.11111111111111,
+            "dimension": 42.74285714285714,
             "children": [
               {
                 "id": "ed264b21c72a1d94",
@@ -46,7 +46,7 @@
           {
             "id": "7f41186a24976c9a",
             "type": "tabs",
-            "dimension": 32.88888888888889,
+            "dimension": 57.25714285714286,
             "children": [
               {
                 "id": "132a0500bc0b5148",
@@ -171,7 +171,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: zsh"
+                  "title": "Terminal: Gemini - Obsidian Vault"
                 }
               }
             ],
